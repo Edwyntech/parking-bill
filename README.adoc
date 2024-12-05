@@ -14,7 +14,7 @@
 
 image:{cicd}/badge.svg[link={cicd},window=_blank]
 
-Parking bill calculation and generation.
+Calcul et génération de la note de stationnement.
 
 == Structure
 
